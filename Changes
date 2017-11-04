@@ -2,6 +2,10 @@ Revision history for Acme-Test-Module
 
 {{$NEXT}}
 
+0.0.2  2017-11-04T16:33:00+09:00
+
+    - Just bump version
+
 0.0.1  2017-11-04T16:32:00+09:00
 
     - Initial version
