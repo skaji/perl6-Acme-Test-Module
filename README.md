@@ -3,7 +3,7 @@
 NAME
 ====
 
-Acme::Test::Module - blah blah blah
+Acme::Test::Module - a test module
 
 SYNOPSIS
 ========
@@ -13,7 +13,7 @@ SYNOPSIS
 DESCRIPTION
 ===========
 
-Acme::Test::Module is ...
+Acme::Test::Module is a test module.
 
 AUTHOR
 ======

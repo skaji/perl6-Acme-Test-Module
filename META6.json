@@ -4,7 +4,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "blah blah blah",
+  "description" : "a test module",
   "license" : "Artistic-2.0",
   "name" : "Acme::Test::Module",
   "perl" : "6.c",

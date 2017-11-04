@@ -6,7 +6,7 @@ unit class Acme::Test::Module:ver<0.0.1>;
 
 =head1 NAME
 
-Acme::Test::Module - blah blah blah
+Acme::Test::Module - a test module
 
 =head1 SYNOPSIS
 
@@ -14,7 +14,7 @@ Acme::Test::Module - blah blah blah
 
 =head1 DESCRIPTION
 
-Acme::Test::Module is ...
+Acme::Test::Module is a test module.
 
 =head1 AUTHOR
 
