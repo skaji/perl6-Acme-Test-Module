@@ -2,6 +2,9 @@ Revision history for Acme-Test-Module
 
 {{$NEXT}}
 
+1.0.2  2017-11-04T16:48:00+09:00
+    - Second release to CPAN
+
 1.0.1  2017-11-04T16:43:00+09:00
     - Initial release to CPAN
 
