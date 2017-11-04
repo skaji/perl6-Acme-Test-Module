@@ -1,5 +1,5 @@
 use v6.c;
-unit class Acme::Test::Module:ver<0.0.2>;
+unit class Acme::Test::Module:ver<1.0.0>;
 
 
 =begin pod
