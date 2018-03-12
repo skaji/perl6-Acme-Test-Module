@@ -1,6 +1,9 @@
 use v6.c;
-unit class Acme::Test::Module:ver<1.0.4>;
 
+module Acme::Test::Module:ver<1.0.4> {}
+class Acme::Test::Module::Class:ver<1.0.4> {}
+role Acme::Test::Module::Role:ver<1.0.4> {}
+grammar Acme::Test::Module::Grammar-desu:ver<1.0.4> {}
 
 =begin pod
 
