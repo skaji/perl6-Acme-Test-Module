@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/skaji/perl6-Acme-Test-Module.svg?branch=master)](https://travis-ci.org/skaji/perl6-Acme-Test-Module)
+[![Actions Status](https://github.com/skaji/raku-Acme-Test-Module/workflows/linux/badge.svg)](https://github.com/skaji/raku-Acme-Test-Module/actions)
 
 NAME
 ====
@@ -8,7 +8,9 @@ Acme::Test::Module - a test module
 SYNOPSIS
 ========
 
-    use Acme::Test::Module;
+```raku
+use Acme::Test::Module;
+```
 
 DESCRIPTION
 ===========
@@ -23,7 +25,7 @@ Shoichi Kaji <skaji@cpan.org>
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2017 Shoichi Kaji
+Copyright 2020 Shoichi Kaji
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 

@@ -1,9 +1,5 @@
-use v6.c;
+unit class Acme::Test::Module:ver<1.0.4>:auth<cpan:SKAJI>;
 
-module Acme::Test::Module:ver<1.0.4> {}
-class Acme::Test::Module::Class:ver<1.0.4> {}
-role Acme::Test::Module::Role:ver<1.0.4> {}
-grammar Acme::Test::Module::Grammar-desu:ver<1.0.4> {}
 
 =begin pod
 
@@ -13,7 +9,11 @@ Acme::Test::Module - a test module
 
 =head1 SYNOPSIS
 
-  use Acme::Test::Module;
+=begin code :lang<raku>
+
+use Acme::Test::Module;
+
+=end code
 
 =head1 DESCRIPTION
 
@@ -25,7 +25,7 @@ Shoichi Kaji <skaji@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2017 Shoichi Kaji
+Copyright 2020 Shoichi Kaji
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
