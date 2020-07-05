@@ -29,6 +29,8 @@ jobs:
       - uses: skaji/setup-raku@master
         with:
           raku-version: ${{ matrix.raku-version }}
+      - name: raku -V
+        run: raku -V
       - name: Install deps
         run: |
           zef install --/test --deps-only .
